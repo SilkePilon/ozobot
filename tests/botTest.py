@@ -1,4 +1,4 @@
-from BotConnect import botConnect
+from ozobot import botConnect
 
 robotFinder = botConnect.RobotFinder()
 robotFinder.findRobots()
